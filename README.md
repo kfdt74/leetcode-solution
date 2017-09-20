@@ -1,4 +1,4 @@
-# 前言 qqqqqqqqqqqqqqqqqqqqqqqq
+# 前言 xxxxxxxxxxxx
 
 首先声明，我和张晓翀都不是算法牛人，确切的说应该是算法的门外汉，小白一个。所以我们为了撬开算法的大门，各自刷完了一遍LeetCode的题目，这其中碰到了很多困难，当然也少不了用了Google以及参考了别人的代码。
 
